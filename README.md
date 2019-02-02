@@ -11,6 +11,5 @@ The source code is freely usable for non-profit purposes.
 This project is lovingly dedicated to the blessed memory of my grandparents Moshe ben Shlomo, Grigory ben Moshe, Khaya bat Nuchim.
 
 
-
 -----
 *Yahrzeit - the anniversary of the death of a parent or other member of the immediate family, commemorated by the lighting of a 24-hour candle (yahrzeit candle), the saying of kaddish, etc. 
