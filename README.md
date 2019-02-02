@@ -1,6 +1,6 @@
 # JewishCalendar
 
-.NET library that can be imported into C# applications, allowing conversion of gregorian dates into hebrew dates and back, calculations of Jahrzeit (for particular gregorian or jewish years), jewish holidays etc.
+.NET library that can be imported into C# applications, allowing conversion of gregorian dates into hebrew dates and back, calculations of Yahrzeit (for particular gregorian or jewish years), jewish holidays etc.
 
 This code is based on the java solution of Ulrich and David Greve (source code copyright © by Ulrich and David Greve (2005)): http://www.david-greve.de/luach-code/jewish-java.html Many thanks to them!
 
