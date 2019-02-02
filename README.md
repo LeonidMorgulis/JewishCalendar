@@ -8,7 +8,7 @@ The papers of Mr. Prof. Nachum Dershowitz (Tel Aviv University) about the calend
 
 The source code is freely usable for non-profit purposes.
 
-This project is lovingly dedicated to the blessed memory of my grandparents Moshe ben Shlomo, Grigory ben Moshe, Khaya bat Nuchim.
+This project is lovingly dedicated to the blessed memory of my grandparents Moshe ben Shlomo ז"ל, Grigory ben Moshe ז"ל, Khaya bat Nuchim ז"ל.
 
 
 -----
